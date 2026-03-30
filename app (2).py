@@ -341,7 +341,7 @@ def main():
     <div class="header-container">
         <h1 class="main-title">O DATENG</h1>
         <div class="sub-title">野菜</div>
-        <div class="teacher-tag">講師：孫秀蘭 | 教材提供者：孫秀蘭</div>
+        <div class="teacher-tag">導師：彭三妹 | 教材提供者：彭三妹</div>
     </div>
     """, unsafe_allow_html=True)
     
